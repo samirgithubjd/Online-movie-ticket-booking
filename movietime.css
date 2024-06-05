@@ -1,0 +1,21 @@
+h4 {
+    margin-left: 40px;
+}
+
+.container1 {
+    margin-left: 50px;
+}
+
+.lnt {
+    color: black;
+    width: 90%;
+    height: 90px;
+    box-shadow: grey 5px 10px;
+    padding: 30px;
+    margin: 20px;
+    background: #fff;
+}
+
+.col-md-3 {
+    font-family: 'Courier New', Courier, monospace;
+}

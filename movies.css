@@ -1,0 +1,24 @@
+.movcard img {
+    height: 250px;
+    width: 200px;
+    display: flex;
+    float: left;
+}
+
+#movcard3 {
+    margin-top: 20px;
+}
+
+.mbutton button {
+    width: 90px;
+}
+
+.card {
+    width: 200px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.card img {
+    height: 300px;
+}

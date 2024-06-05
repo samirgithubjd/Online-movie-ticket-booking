@@ -1,0 +1,270 @@
+.pymt {
+    height: 500px;
+    width: 200%;
+}
+
+.pymntbox {
+    color: black;
+    width: 36%;
+    height: 500px;
+    background: #fff;
+    margin-left: 30%;
+    background: #EEEDEB;
+}
+
+.pymntbox h6 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 30px;
+    margin: 20px;
+}
+
+.tcttxt {
+    margin-left: 50px;
+}
+
+.tcttxt1 {
+    color: black;
+    width: 100%;
+    height: 50px;
+    background: #FFDD95;
+    margin-right: 60px;
+    padding: 10px;
+    margin-top: 100px;
+    border-color: #000;
+}
+
+.total {
+    margin-left: 40px;
+}
+
+.pymntbox button {
+    width: 100%;
+    font-weight: bold;
+}
+
+.paybox1 {
+    color: #000;
+    width: 50%;
+    height: 180px;
+    background: #EEEDEB;
+    margin-right: 60px;
+    margin-left: 30px;
+    border-color: #000;
+}
+
+.paybox1 h6 {
+    color: #fff;
+    background-color: #B80000;
+    height: 30px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.inp input {
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+#data {
+    margin-left: 20px;
+}
+
+.inp label {
+    margin-left: 20px;
+}
+
+.phoneNo label {
+    margin-left: 20px;
+}
+
+
+/* .mb-3 {
+    width: 300px;
+    margin-left: 10px;
+} */
+
+
+/* .paybox1 button {
+    width: 90%;
+    margin-left: 30px;
+} */
+
+#pybtn {
+    background-color: #B80000;
+    color: #fff;
+    width: 90%;
+    height: 30px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+.dropdown {
+    color: #000;
+    width: 100%;
+    position: relative;
+    margin-left: 30px;
+}
+
+.dropdown-item button {
+    width: 200px;
+}
+
+.dropdown .dropdown-btn {
+    padding: 10px;
+    width: 50%;
+    background: #B80000;
+    box-shadow: 3px 3px 10px 2px rgba(0, 0, 0, 06);
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.dropdown .dropdown-content {
+    position: absolute;
+    width: 640px;
+    top: 110%;
+    padding: 5px;
+    background: #fff;
+    box-shadow: 3px 3px 10px 1px rgba(0, 0, 0, 06);
+    font-weight: 500;
+    color: #333;
+}
+
+.dropdown .dropdown-content .dropdown-item:hover {
+    background: #ebe8e8;
+}
+
+.cdetails {
+    margin-left: 460px;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mnbox {
+    height: 400px;
+    width: 400px;
+    background-color: #B4B4B8;
+    margin-left: 450px;
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Dcinp input {
+    width: 300px;
+}
+
+.cinputs {
+    padding-left: 50px;
+    padding-top: 50px;
+    flex-direction: column;
+}
+
+.input1 input {
+    width: 130px;
+}
+
+.input2 {
+    margin-left: 170px;
+    margin-top: -85px;
+}
+
+.input2 input {
+    width: 130px;
+}
+
+.btn {
+    margin-left: 0%;
+    font-weight: bold;
+}
+
+.net {
+    padding: 50px;
+}
+
+.bankimg img {
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: -70px;
+}
+
+.bankimg1 img {
+    height: 150px;
+    width: 150px;
+    margin-top: -50px;
+    margin-left: 50px;
+}
+
+.select {
+    margin-left: 30px;
+}
+
+.upi {
+    padding: 50px;
+}
+
+.logoimg {
+    margin-left: 30px;
+    margin-top: -40px;
+}
+
+.logoimg1 img {
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+.qr img {
+    height: 200px;
+    width: 200px;
+}
+
+.upi input {
+    margin-left: 30px;
+}
+
+.pyntbox {
+    background-color: #CCD3CA;
+    padding: 30px;
+    width: 70%;
+    margin-left: 100px;
+}
+
+.pyntbox h6 {
+    color: #B80000;
+}
+
+.confirm {
+    height: 400px;
+    width: 450px;
+    padding: 30px;
+    background-color: #CCD3CA;
+    border: 1px solid;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.infrm ul {
+    margin-left: 180px;
+}
+
+.confirm {
+    border: none;
+    border-radius: 10px;
+}
+
+#confirm {
+    margin-left: 50px;
+    width: 300px;
+}
